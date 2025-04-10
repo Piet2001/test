@@ -1,1 +1,4 @@
 youtube.com
+www.youtube.com
+nu.nl
+0.0.0.0 nos.nl
